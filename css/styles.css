@@ -1,0 +1,24 @@
+body{
+    background-color: #393E46;
+}
+.container{
+    width :70%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.players{
+    width:70%;
+    height: 200px;
+    margin:0 auto;
+    text-align:center;
+}
+.player1{
+    float:left;
+    margin-left: 70px;
+}
+.player2{
+    float:left;
+    margin-left:30px;
+}
